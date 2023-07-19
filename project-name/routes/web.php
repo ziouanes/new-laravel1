@@ -22,3 +22,4 @@ Route::post('store', [clientcontrollerr::class,'store']);
 Route::get('edit-client/{id}', [clientcontrollerr::class,'edit']);
 Route::post('update', [clientcontrollerr::class,'update']);
 Route::get('delete-client/{id}', [clientcontrollerr::class,'delete']);
+//test
